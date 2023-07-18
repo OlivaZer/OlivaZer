@@ -5,9 +5,11 @@
 # Hello there ! 🎉
 
 ## Bonjour. 🫡
+
+## À propos 
 <div>
   <p align="center">
-    🌐 Bienvenue sur mon GitHub, le terrain de jeu où je construis mes compétences en développement web. 🌐<br> Je suis à fond dans HTML, CSS et JavaScript, en train de créer des sites et des applications incroyables. Rejoignez-moi dans cette aventure de développement où nous explorons les rouages du web et donnons vie à des projets interactifs. Ensemble, nous allons repousser les limites du web et créer une expérience utilisateur inoubliable. Prêt(e) à plonger dans le monde fascinant du développement web ? 
+    🌐 Bienvenue sur mon GitHub, Actuellement en formation pour devenir développeur web et grandemant attiré pas le monde du Front-end. 🌐<br>  Prêt(e) à plonger dans le monde fascinant du développement web ? 
   
   </p>
   <p align="center">
@@ -44,7 +46,16 @@
 
 
 
-<p align ="center" width 20%>
+<p align ="center">
   <img align ="left", width="20%" src="https://media.giphy.com/media/WQD6NEEsVTvxK/giphy.gif" />
   <a href="https://media.giphy.com/media/WQD6NEEsVTvxK/giphy.gif"></a>
 </p>
+
+
+## Contact 
+<div>
+  <ul>
+    <li> Adresse e-mail : *******</li>
+    <li>LinkedIn : www.linkedin.com/in/florian-oliva</li>
+  </ul>
+</div>

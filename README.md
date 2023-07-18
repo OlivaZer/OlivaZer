@@ -6,10 +6,13 @@
 
 ## Bonjour. 🫡
 <div>
-  <p>
-    🌐 Bienvenue sur mon GitHub, le terrain de jeu où je construis mes compétences en développement web. <br> Je suis à fond dans HTML, CSS et JavaScript, en train de créer des sites et des applications incroyables. Rejoignez-moi dans cette aventure de développement où nous explorons les rouages du web et donnons vie à des projets interactifs. Ensemble, nous allons repousser les limites du web et créer une expérience utilisateur inoubliable. Prêt(e) à plonger dans le monde fascinant du développement web ? Let's code and build!" 🌐
-  </p>
+  <p align="center">
+    🌐 Bienvenue sur mon GitHub, le terrain de jeu où je construis mes compétences en développement web. 🌐<br> Je suis à fond dans HTML, CSS et JavaScript, en train de créer des sites et des applications incroyables. Rejoignez-moi dans cette aventure de développement où nous explorons les rouages du web et donnons vie à des projets interactifs. Ensemble, nous allons repousser les limites du web et créer une expérience utilisateur inoubliable. Prêt(e) à plonger dans le monde fascinant du développement web ? 
   
+  </p>
+  <p align="center">
+    Let's code and build! 🚀 
+  </p>
   <p align ="center">
     <img width="500px" align ="center" src="https://media.giphy.com/media/141xGebUNJWiGI/giphy.gif" />
   </p>
@@ -17,7 +20,7 @@
 
 </div>
 
-# Langages and Tools :
+# Langages et Outils :
 
 <ul>
   <li>HTML <img width ="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
